@@ -1,3 +1,7 @@
 {
-  "welcome": "Hoşgeldin"
+  "welcome": "Hoşgeldin",
+  "page": "Sayfa",
+  "pages": "Sayfalar",
+  "title": "Başlık",
+  "content": "İçerik"
 }
