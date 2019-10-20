@@ -5,13 +5,11 @@
       "connector": "strapi-hook-mongoose",
       "settings": {
         "client": "mongo",
-        "host": "127.0.0.1",
-        "port": 27017,
-        "database": "strapi-test-app",
-        "username": "",
-        "password": ""
+        "uri": "mongodb+srv://em17ah:emrahyumuk@cluster0-6recj.mongodb.net/test?retryWrites=true&w=majority"
       },
-      "options": {}
+      "options": {
+        "ssl": true
+      }
     }
   }
 }
