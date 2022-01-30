@@ -1,3 +1,3 @@
-# strapi-test-app
+# strapi-demo
 
-A quick description of strapi-test-app.
+Strapi Demo
